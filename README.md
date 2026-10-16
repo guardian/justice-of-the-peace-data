@@ -28,6 +28,7 @@ defendant_represented | A flag indicating if there was any indication that the t
 outcome | Outcome of the case. 
 
 
+<!---
 
 #### [Justice training](data/Noncompliant_Justices_of_the_Peace_and_Constables_2024-2025_Compliance_Period.xlsx)  
 This is a document the Guardian obtained through a public records request that contains details on which justices are behind on their annual training. 
@@ -39,3 +40,4 @@ This is a document the Guardian obtained through a public records request that c
 | Title| Constable or Justice of the Peace
 | Ward/District | The ward or district of the justice 
 | Credit hours | Hours of training completed
+-->
