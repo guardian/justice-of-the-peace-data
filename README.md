@@ -16,28 +16,14 @@ This is a dataset of the total fees brought in per parish and the estimated sala
 
 
 #### [Evictions](data/evictions.csv)
-This is an abridged dataset of the eviction documents gathered by the Guardian. We removed the plaintiff, defendant, and address columns. If you are a researcher or academic and feel that you need these columns, please reach out and the Guardian will evaluate a request to access the raw data. 
+This is an abridged dataset of the eviction documents gathered by the Guardian covering June 2025 to May 2026. We removed the plaintiff, defendant, and address columns. If you are a researcher or academic and feel that you need these columns, please reach out and the Guardian will evaluate a request to access the raw data. 
 
 |  Variable |  Definition |  
 |---|---|
 id| The case ID
-date_orde | Date of the eviction case
+date_order | Date of the eviction case
 waiver_or_first_notice | A flag indictating if the case involved a tenant waiving their right to notice. 
 eviction_reason | The reason for the eviction as stated on the eviction order
 defendant_represented | A flag indicating if there was any indication that the tenant had representation. This usually took the form of the word ATTY, SLLC, or ESQ next to the name of an individual written on the order next to the defendant. 
 outcome | Outcome of the case. 
 
-
-<!---
-
-#### [Justice training](data/Noncompliant_Justices_of_the_Peace_and_Constables_2024-2025_Compliance_Period.xlsx)  
-This is a document the Guardian obtained through a public records request that contains details on which justices are behind on their annual training. 
-
-|  Variable |  Definition |  
-|---|---|
-| Name  | Justice of the peace or constable name  |
-|Parish| The parish of the justice or constable |
-| Title| Constable or Justice of the Peace
-| Ward/District | The ward or district of the justice 
-| Credit hours | Hours of training completed
--->
