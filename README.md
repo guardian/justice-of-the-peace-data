@@ -1,7 +1,7 @@
 # Justice of the Peace Data
 The Guardian spent 9 months investigating the Louisiana justice of the peace court system. In the process of our investigation, we created or acquired several datasets which we are releasing either in full or abridged form.
 
-If you make use of this data, please cite the Guardian and [let me know](will.craft@theguardian.com).
+If you make use of this data, please cite the Guardian and [let me know](mailto:will.craft@theguardian.com).
 
 ## Datasets
 #### [Court Fees](data/court_fees.csv)
